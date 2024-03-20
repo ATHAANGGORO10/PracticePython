@@ -13,4 +13,4 @@ if tanggapan.lower() == "Yes":
 elif tanggapan.lower() == "No":
     print("Operating System Removal Canceled")
 else:
-    print("Congratulations, your operating system has been deleted")
+    print("You Have Canceled It")
